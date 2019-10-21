@@ -1,0 +1,4 @@
+DATABASE = 'links.dat'
+PREFIX = '>'
+VERSION = 0.2
+EMBED_COLOR = 0x32437d
